@@ -24,11 +24,11 @@ author:
   avatar           : "cropped.jpg"
   name             : "Théo Bodrito"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at École normale supérieure and Inria"
+  bio              : "Postdoctoral researcher"
   location         : "Paris"
-  employer         : "Inria (WILLOW/THOTH)"
+  employer         : "Meta FAIR"
   uri              : # URL
-  email            : "theo.bodrito@inria.fr" 
+  email            : "theo.bodrito@hotmail.fr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
