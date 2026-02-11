@@ -24,7 +24,7 @@ Previously, I completed my PhD at <a href="https://www.ens.psl.eu/">Ecole normal
   <li> <b> September 2025:</b> I started my postdoc at <a href="https://ai.meta.com/research/">Meta FAIR</a> </li>
   <li> <b> August 2025:</b> Our work was <a href="https://youtu.be/VNNq4DTxAJE?t=250">featured by Jean Ponce</a> on the tech channel <a href="https://www.youtube.com/@Underscore_">Underscore_</a></li>
   <li> <b> June 2025:</b> Our paper <a href="https://www.nature.com/articles/s41586-025-09150-4">Evidence for a sub-jovian planet in the young TWA7 disk</a> was accepted in Nature 🎉</li>
-  <li> <b> June 2025:</b> I successfully defended my PhD! 🎉</li>
+  <li> <b> June 2025:</b> I successfully defended my PhD! 🎉 My thesis is available <a href="https://theses.hal.science/tel-05436391/">here</a></li>
   <li> <b> March 2025:</b> Our paper ExoMILD was accepted to CVPR 2025 🍾 </li>
   <li> <b> September 2024:</b> Our paper MODEL&CO was accepted to MNRAS 🎊</li>
   <li> <b> August 2023:</b> Our paper deep PACO was accepted to MNRAS 🥳</li>
